@@ -1,6 +1,0 @@
-/*!
- * Created by XLST
- * Copyright (c) 2025 AlenXLST
- * XLST NAV BTN CYAN V2.61.5 (265)
- */
-.menu-button {background: transparent;border: none;cursor: pointer;padding: 10px;position: relative;z-index: 10;width: 50px;height: 50px;display: flex;flex-direction: column;justify-content: center;align-items: center;gap: 6px}.nv-cyan span {background: cyan !important;}.menu-button span {display: block;width: 30px;height: 3px;background-color: #eee;border-radius: 3px;transition: transform .3s ease-in-out, opacity .3s ease-in-out}.menu-button[aria-expanded=true] span:nth-child(1) {transform: translateY(9px)rotate(45deg)}.menu-button[aria-expanded=true] span:nth-child(2) {opacity: 0}.menu-button[aria-expanded=true] span:nth-child(3) {transform: translateY(-9px)rotate(-45deg)}
